@@ -6,7 +6,7 @@
 
 - Name: Halbook
 - Publish Site: [halbook.web.app](https://halbook.web.app)
-- VCS Repo(Git): [GitHub](https://github.com/halka900stg/halbook.git)
+- VCS Repo(Git): [GitHub](https://github.com/halka9000stg/halbook.git)
 - Lang: Dart, etc.
 - Kind: Dynamic, Pre-Rendering
 - Service: Firebase
