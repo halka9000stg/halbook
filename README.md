@@ -2,6 +2,8 @@
 
 暫定セルフサイト
 
+## 諸元
+
 - Name: Halbook
 - Publish Site: [halbook.web.app](https://halbook.web.app)
 - VCS Repo(Git): [GitHub](https://github.com/halka900stg/halbook.git)
@@ -12,8 +14,6 @@
   - [IbisUI](https://github.com/IbisWeb/IbisUI.git)
   - [Lobiac](https://github.com/FunCobal-family/ChestDD_Language/tree/master/lobiac)
   - [FROS](https://github.com/FunCobal-family/ChestDD_Language/tree/master/fros)
-
-## 諸元
 
 ## 設計
 
