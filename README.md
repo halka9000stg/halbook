@@ -13,7 +13,7 @@
 - Dependencies:
   - [IbisUI](https://github.com/IbisWeb/IbisUI.git)
   - [Lobiac](https://github.com/FunCobal-family/ChestDD_Language/tree/master/lobiac)
-  - [FROS](https://github.com/FunCobal-family/ChestDD_Language/tree/master/fros)
+  - [FROS](https://github.com/FunCobal-family/ChestDD_Language/tree/master/FROS)
 
 ## 設計
 
